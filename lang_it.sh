@@ -1,0 +1,7 @@
+MSG_START_SCAN="Avvio della scansione..."
+MSG_COMPLETE_SCAN="Scansione completata. Risultati salvati in"
+MSG_INVALID_FORMAT="Formato di output non valido specificato. Usare txt, xml, csv o json."
+MSG_USAGE="Uso: $0 <Indirizzo IP/Intervallo/Subnet> <File di Output> [Formato di Output: txt, xml, csv, json]"
+MSG_NMAP_NOT_FOUND="nmap non è installato. Si prega di installarlo prima di eseguire questo script."
+MSG_INVALID_IP="L'indirizzo IP fornito non è valido."
+MSG_USE_FORMAT="Utilizzare il formato: x.x.x.x"
